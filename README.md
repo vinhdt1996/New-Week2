@@ -50,10 +50,6 @@ https://imgur.com/jENSEvl
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-* **Scroll down to see more articles** error occurred. 
-* I'm sorry. This week, I had to focus on a project in school so I did not complete all the requirements and design UI in this project. I will try harder next week. Thank you!
-
 ## Open-source libraries used
 
 - [retrolambda expressions](http://guides.codepath.com/android/Lambda-Expressions)
